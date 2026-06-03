@@ -1,0 +1,35 @@
+{
+  "ad1": {
+    "active": true,
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEh1DCqRRPeoaLbargUYRZMNPprZsKrKHoXnLrC6lP0scjqhC4MSdbW9BBaWD9of4IbzyIB6vggED7wgbXEgzjUFqFj1pD_SKB2maTAowyXjhbBHqc7wQ8gH5BnwhUUnRs-a6NQ5CkisKyRm44jjmb7aWVemwPPE2MGBVeJjbgJuTwV_T0IX2-Y5QCOqws/s320/ChatGPT%20Image%20Mar%2021,%202026,%2005_46_33%20PM.png",
+    "link": "https://chat.whatsapp.com/ICzDnFo41dCHjbR6qGkrPG"
+  },
+  "ad2": {
+    "active": false,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhXSPhB1eth9rPp7UhPVhYqpMEgKN33dtPm0g-wGlmFJb5HiXqdbcqmFgNoqurIpdA1EpoHlhKPJZwYzQC5m5HRM0H74aH6yhyoRXnBCD6l1sCxlgFXo5SvMnpCq-DTsFGfN4kOd9Pq9V0usBCkxGAhqyddsV2zn5bo4ajkuqRkJYvFj6O08bEtphKuhNs",
+    "link": "https://artofmentalism.in"
+  },
+  "readAlso": {
+    "active": true
+  },
+  "ad3": {
+    "active": false,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhXSPhB1eth9rPp7UhPVhYqpMEgKN33dtPm0g-wGlmFJb5HiXqdbcqmFgNoqurIpdA1EpoHlhKPJZwYzQC5m5HRM0H74aH6yhyoRXnBCD6l1sCxlgFXo5SvMnpCq-DTsFGfN4kOd9Pq9V0usBCkxGAhqyddsV2zn5bo4ajkuqRkJYvFj6O08bEtphKuhNs",
+    "link": "https://artofmentalism.in"
+  },
+  "ad4": {
+    "active": true,
+    "img": "https://sudheer.xyz/img/logo-sk.webp",
+    "link": "https://sudheer.xyz"
+  },
+  "ad5": {
+    "active": true,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhXSPhB1eth9rPp7UhPVhYqpMEgKN33dtPm0g-wGlmFJb5HiXqdbcqmFgNoqurIpdA1EpoHlhKPJZwYzQC5m5HRM0H74aH6yhyoRXnBCD6l1sCxlgFXo5SvMnpCq-DTsFGfN4kOd9Pq9V0usBCkxGAhqyddsV2zn5bo4ajkuqRkJYvFj6O08bEtphKuhNs",
+    "link": "https://artofmentalism.in"
+  },
+  "ad6": {
+    "active": false,
+    "img": "https://via.placeholder.com/728x90?text=AD+SLOT+6",
+    "link": "#"
+  }
+}
